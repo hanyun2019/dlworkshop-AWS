@@ -8,3 +8,6 @@ $ git add .
 $ git commit -m "update for git commit test"
 
 $ git push origin master
+
+使用强制push的方法： $ git push -u origin master -f
+
